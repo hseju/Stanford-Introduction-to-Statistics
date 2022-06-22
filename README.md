@@ -11,16 +11,16 @@ Topics include Descriptive Statistics, Sampling and Randomized Controlled Experi
 
     .
     ┣━━ src                   
-       ┣━━ Introduction and Descriptive Statistics for Exploring Data
+       ┣━━ Week1
        ┃  ├──
        ┃  ├──
        ┃  ├──
        ┃
-       ┣━━ Producing Data and Sampling
+       ┣━━ Week2
        ┃  
-       ┣━━ Introduction and Descriptive Statistics for Exploring Data
+       ┣━━ Week3
        ┃  
-       ┣━━ Introduction and Descriptive Statistics for Exploring Data
+       ┣━━ Week4
        ┃  
-       ┣━━ Introduction and Descriptive Statistics for Exploring Data
+       ┣━━ week5
        
